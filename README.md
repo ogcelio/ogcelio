@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there! 👋 Welcome to my profile!
 
-<!--
-**ogcelio/ogcelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanichal Engineering undergrad passionate about coding and physics. I currently work with neutron shielding calculations at the State University of Rio de Janeiro (UERJ).
 
-Here are some ideas to get you started:
+**🌱 What I'm currently learning:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Software Development
+
+**🛠️ My main skills:**
+
+* **Languages:** Portuguese, English.
+* **Frameworks/Libraries:** Pyside6, PyQt6
+* **Tools:** CAD (SolidWorks, Onshape)
+
+**📊 GitHub Stats:**
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogcelio&show_icons=true&theme=radical)](https://github.com/ogcelio)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogcelio&layout=compact&theme=radical)](https://github.com/ogcelio)
+
+**📫 How to reach me:**
+
+* [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araujosander95@gmail.com)
+* [![[Your LinkedIn]](https://img.shields.io/badge/LinkedIn-[HexColor]?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocelio)
+* [![[Your Username]](https://img.shields.io/badge/GitHub-[HexColor]?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogcelio)
+
+Feel free to get in touch! 😊
