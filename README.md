@@ -21,7 +21,7 @@ I'm a Mechanichal Engineering undergrad passionate about coding and physics. I c
 
 **📫 How to reach me:**
 
-* [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araujosander95@gmail.com)
+* Email: araujosander95@gmail.com
 * [![[Your LinkedIn]](https://img.shields.io/badge/LinkedIn-[HexColor]?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocelio)
 * [![[Your Username]](https://img.shields.io/badge/GitHub-[HexColor]?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogcelio)
 
