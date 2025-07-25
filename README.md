@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome to my profile!
 
-I'm a Mechanichal Engineering undergrad passionate about programming and physics. I currently work with neutron shielding calculations at the State University of Rio de Janeiro (UERJ).
+I'm a Computer Engineering undergrad passionate about programming and physics. I currently work with neutron shielding calculations at the State University of Rio de Janeiro (UERJ).
 
 **🌱 What I'm currently learning:**
 
