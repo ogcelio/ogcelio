@@ -6,6 +6,7 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 
 * Python
 * C/C++
+* Lua
 * Software Development
 * High Performance Algorithms
 
