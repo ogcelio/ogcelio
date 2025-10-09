@@ -1,4 +1,4 @@
-## Hi there! 👋 Welcome to my profile!
+# Hi there! 👋 Welcome to my profile!
 
 I'm a Computer Engineering undergrad passionate about programming and physics. I currently work with neutron shielding calculations at the State University of Rio de Janeiro (UERJ).
 
@@ -109,7 +109,7 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
   </tr>
 </table>
 
-**📫 How to reach me:**
+## **📫 How to reach me:**
 
 * Email: araujosander95@gmail.com
 * [![[Your LinkedIn]](https://img.shields.io/badge/LinkedIn-[HexColor]?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocelio)
