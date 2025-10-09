@@ -4,9 +4,6 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 
 ### **🌱 What I'm currently learning:**
 
-* Python
-* C/C++
-* Lua
 * Software Development
 * High Performance Algorithms
 
