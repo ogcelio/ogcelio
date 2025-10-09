@@ -56,7 +56,7 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
       <br>MySQL
     </td>
   </tr>
-
+</table>
   
 **📊 GitHub Stats:**
 
