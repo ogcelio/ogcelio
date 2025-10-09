@@ -12,7 +12,11 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 
 ## **🛠️ My main skills:**
 
+<div align="center">
+
 ### Programming:
+
+</div>
 
 <table align="center">
 <!-- skill -->
@@ -46,7 +50,11 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
   </tr>
 </table>
 
+<div align="center">
+
 ### CAD:
+
+</div>
 
 <table align="center">
   <tr>
@@ -65,21 +73,24 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
   </tr>
 </table>
 
+<div align="center">
+
 ### Languages:
+
+</div>
+
 <table align="center">
-<!-- 
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
+      <img src="./icons/brazil-.png" alt="icon" width="55" height="55" />
+      <br>Portuguese
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
+      <img src="./icons/united-kingdom.png" alt="icon" width="55" height="55" />
+      <br>English
     </td>
   </tr>
 </table>
-skill -->
   
 ## **📊 GitHub Stats:**
 
