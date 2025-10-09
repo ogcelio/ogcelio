@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering undergrad passionate about programming and physics. I currently work with neutron shielding calculations at the State University of Rio de Janeiro (UERJ).
 
-**🌱 What I'm currently learning:**
+### **🌱 What I'm currently learning:**
 
 * Python
 * C/C++
@@ -49,7 +49,6 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 ### CAD:
 
 <table align="center">
-<!-- skill -->
   <tr>
     <td align="center" width="90">
       <img src="./icons/solid-works-icon.png" alt="icon" width="55" height="55" />
@@ -65,12 +64,39 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
     </td>
   </tr>
 </table>
+
+### Languages:
+<table align="center">
+<!-- 
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+  </tr>
+</table>
+skill -->
   
-**📊 GitHub Stats:**
+## **📊 GitHub Stats:**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogcelio&show_icons=true&theme=radical)](https://github.com/ogcelio)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogcelio&layout=compact&theme=radical)](https://github.com/ogcelio)
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/ogcelio">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogcelio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ogcelio">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogcelio&layout=compact&langs_count=6&theme=radical"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 **📫 How to reach me:**
 
