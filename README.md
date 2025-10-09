@@ -29,6 +29,14 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
       <br>Github
     </td>
+    <td align="center" width="90">
+      <img src="./icons/Lua-icon.svg" alt="icon" width="55" height="55" />
+      <br>Lua
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Neovim-icon.svg" alt="icon" width="55" height="55" />
+      <br>NeoVim
+    </td>
     <!--
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
@@ -44,16 +52,16 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 <!-- skill -->
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
+      <img src="./icons/solid-works-icon.png" alt="icon" width="55" height="55" />
+      <br>SolidWorks
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-      <br>Github
+      <img src="./icons/onshape-icon.png" alt="icon" width="55" height="55" />
+      <br>OnShape
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
+      <img src="./icons/Fusion360-icon.svg" alt="icon" width="55" height="55" />
+      <br>Fusion360
     </td>
   </tr>
 </table>
