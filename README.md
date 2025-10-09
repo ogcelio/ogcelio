@@ -1,4 +1,4 @@
-### Hi there! 👋 Welcome to my profile!
+## Hi there! 👋 Welcome to my profile!
 
 I'm a Computer Engineering undergrad passionate about programming and physics. I currently work with neutron shielding calculations at the State University of Rio de Janeiro (UERJ).
 
@@ -10,12 +10,54 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 * Software Development
 * High Performance Algorithms
 
-**🛠️ My main skills:**
+## **🛠️ My main skills:**
 
-* **Languages:** Portuguese, English.
-* **Frameworks/Libraries:** Pyside6, PyQt6
-* **Tools:** CAD (SolidWorks, Onshape)
+### Programming:
 
+<table align="center">
+<!-- skill -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+      <br>Github
+    </td>
+    <!--
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    -->
+  </tr>
+</table>
+
+### CAD:
+
+<table align="center">
+<!-- skill -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+      <br>Github
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+  </tr>
+
+  
 **📊 GitHub Stats:**
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogcelio&show_icons=true&theme=radical)](https://github.com/ogcelio)
