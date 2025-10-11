@@ -7,7 +7,7 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 * Software Development
 * High Performance Algorithms
 
-## **🛠️ My main skills:**
+## **🛠️ My Main Skills:**
 
 <div align="center">
 
