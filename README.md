@@ -2,10 +2,27 @@
 
 I'm a Computer Engineering undergrad passionate about programming and physics. I currently work with neutron shielding calculations at the State University of Rio de Janeiro (UERJ).
 
-### **🌱 What I'm currently learning:**
+## **🌱 What I'm currently learning:**
 
 * Software Development
 * High Performance Algorithms
+<table align="center">
+<!-- skill -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Lua-icon.svg" alt="icon" width="55" height="55" />
+      <br>Lua
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/julia-icon.svg" alt="icon" width="55" height="55" />
+      <br>Julia
+    </td>
+  </tr>
+</table>
 
 ## **🛠️ My Main Skills:**
 
@@ -27,10 +44,6 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="./icons/Lua-icon.svg" alt="icon" width="55" height="55" />
-      <br>Lua
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
       <br>Github
     </td>
@@ -38,12 +51,6 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
       <img src="./icons/Neovim-icon.svg" alt="icon" width="55" height="55" />
       <br>NeoVim
     </td>
-    <!--
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
-    </td>
-    -->
   </tr>
 </table>
 
