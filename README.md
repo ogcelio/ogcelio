@@ -7,7 +7,6 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 * Software Development
 * High Performance Algorithms
 <table align="center">
-<!-- skill -->
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
