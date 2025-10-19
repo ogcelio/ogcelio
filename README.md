@@ -101,12 +101,12 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
   <tr>
     <td>
       <a href="https://github.com/ogcelio">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogcelio&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogcelio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/ogcelio">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogcelio&layout=compact&langs_count=5&theme=radical"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogcelio&layout=compact&langs_count=8&theme=radical"/>
       </a>
     </td>
   </tr>
