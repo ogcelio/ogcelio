@@ -106,7 +106,7 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
     </td>
     <td>
       <a href="https://github.com/ogcelio">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogcelio&layout=compact&langs_count=8&theme=radical"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogcelio&layout=compact&langs_count=4&theme=radical"/>
       </a>
     </td>
   </tr>
