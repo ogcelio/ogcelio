@@ -119,3 +119,9 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 * [![[Your Username]](https://img.shields.io/badge/GitHub-[HexColor]?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogcelio)
 
 Feel free to get in touch! 😊
+
+<div align="center">
+
+_**Se eu não fosse João Célio, eu gostaria de ser Diógenes.**_
+
+</div>
