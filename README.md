@@ -9,10 +9,6 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
       <img src="./icons/Lua-icon.svg" alt="icon" width="55" height="55" />
       <br>Lua
     </td>
@@ -54,7 +50,7 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 </table>
 
 <div align="center">
-
+  
 ### CAD:
 
 </div>
@@ -72,6 +68,26 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
     <td align="center" width="90">
       <img src="./icons/Fusion360-icon.svg" alt="icon" width="55" height="55" />
       <br>Fusion360
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  
+### Database:
+  
+</div>
+
+<table align="center">
+<!-- skill -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/postgresql-icon.png" alt="icon" width="55" height="55" />
+      <br>PostgreSQL
     </td>
   </tr>
 </table>
