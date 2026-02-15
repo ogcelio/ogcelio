@@ -16,6 +16,10 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
       <img src="./icons/julia-icon.svg" alt="icon" width="55" height="55" />
       <br>Julia
     </td>
+    <td align="center" width="90">
+      <img src="./icons/rust_icon.png" alt="icon" width="55" height="55" />
+      <br>Rust
+    </td>
   </tr>
 </table>
 
