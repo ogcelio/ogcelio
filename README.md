@@ -145,7 +145,7 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
 
 * Email: araujosander95@gmail.com
 * [![[Your LinkedIn]](https://img.shields.io/badge/LinkedIn-[HexColor]?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocelio)
-* [![[Your Username]](https://img.shields.io/badge/GitHub-[HexColor]?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogcelio)
+* [![[Your Username]](https://img.shields.io/badge/GitLab-[HexColor]?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ogcelio)
 
 Feel free to get in touch! 😊
 
