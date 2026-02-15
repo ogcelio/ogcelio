@@ -47,7 +47,7 @@ I'm a Computer Engineering undergrad passionate about programming and physics. I
       <br>Github
     </td>
     <td align="center" width="90">
-      <img src="./icons/vim-icon.svg" alt="icon" width="55" height="55" />
+      <img src="./icons/vim-icon.png" alt="icon" width="55" height="55" />
       <br>Vim
     </td>
   </tr>
